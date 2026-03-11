@@ -1,12 +1,17 @@
-# HTML_CSS_Exam
+# HTML & CSS Exam
 
 # Technologies used
 HTML, CSS, Visual Studio Code
 
 # How to run the assignments
 - Clone the repository.
-- You can find the assignment requirements inside the Task folder of that assignment.
 - Open the folder in Visual Studio Code.
 - From the visible files, select index.html.
 - Install the Live Server extension in VS Code and click Go Live in the bottom‑right corner.
 - Your browser will automatically open and display the result of the assignment.
+
+# Additional information
+- You can find the assignment requirements inside the Task folder.
+- In the file Requirements_LT.docx, the exam requirements are provided in Lithuanian.
+- The other two images contain the design that had to be implemented using HTML and CSS in VS Code.
+- The folder v2_flex_examle was created after the exam at home, and the design there is implemented using a different layout approach — the flex method
