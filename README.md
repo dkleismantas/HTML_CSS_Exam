@@ -1,5 +1,7 @@
 # HTML & CSS Exam
 
+## Score: 10 / 10
+
 # Technologies used
 HTML, CSS, Visual Studio Code
 
